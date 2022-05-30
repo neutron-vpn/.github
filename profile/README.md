@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-🙋‍♀️ NeutronVPN - is a free and opensource VPN based on Wireguard
-🌈 Contribution guidelines - no yet
-👩‍💻 Docs - no yet
+🙋‍♀️ NeutronVPN - is a free and opensource VPN based on Wireguard <br/>
+🌈 Contribution guidelines - no yet <br/> 
+👩‍💻 Docs - no yet <br/>
