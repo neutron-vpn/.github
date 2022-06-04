@@ -1,5 +1,3 @@
-## Hi there 👋
+## Информация 👋
 
-🙋‍♀️ NeutronVPN - is a free and opensource VPN based on Wireguard <br/>
-🌈 Contribution guidelines - no yet <br/> 
-👩‍💻 Docs - https://docs.vpn.neutronetwork.xyz <br/>
+🙋‍♀️ NeutronProject - сервер в Minecraft с открытым исходным кодом всех частей проекта <br/>
